@@ -1,5 +1,5 @@
-application: amirrorrr
-version: first
+application: proxy-goji
+version: v2
 module: default
 runtime: python27
 api_version: 1
